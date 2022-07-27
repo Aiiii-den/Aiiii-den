@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aiiii-den
 - 👀 I’m interested in all things regarding programming, ethics in AI and the industrial metaverse.
 - 🌱 I’m currently learning Java, JavaScript, SQL and R.
-- 💞️ I’m looking to collaborate on nothing for now, but I have a pretty need idea for a bigger future project.
+- 💞️ I’m looking to collaborate on nothing for now, but I have a pretty neat idea for a bigger future project.
 - 📫 How to reach me: pls don't ^^ 
 
 <!---
