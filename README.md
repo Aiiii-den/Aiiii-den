@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aiiii-den
-- 👀 I’m interested in all things regarding backend programming, ethics in AI and the industrial metaverse.
-- 🌱 I’m currently learning advanced Java, JavaScript and Python.
+- 👀 I’m interested in all things regarding backend programming, ethics in AI, VR (game development) and the industrial metaverse.
+- 🌱 I’m currently learning advanced Java, JavaScript and Kotlin (also started dabbling with Unity).
 - 💞️ I’m looking to collaborate on nothing for now, but I have a pretty neat idea for a bigger future project.
 - 📫 How to reach me: pls don't ^^ 
 
