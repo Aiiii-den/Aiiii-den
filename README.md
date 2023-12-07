@@ -68,21 +68,27 @@
 
 </br>
 <h3><em>F U T U R E</em></h3>
+<div style="display: inline">
+<h6>Machine Learning: </h6>
 <img align="left" width="26px" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" width="26px" alt="tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" width="26px" alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" width="26px" alt="pytorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" style="padding-right:10px;"/>
-<br>   
+</div>
+  <br>   
 </br>
 
 </br>
 <h3><em>F U N S I E S</em></h3>
+<div style="display: inline">
+<h6>Game Development: </h6>
 <img align="left" width="26px" alt="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" style="padding-right:10px;"/>       
 <img align="left" width="26px" alt="unreal engine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" style="padding-right:10px;"/>         
 <img align="left" width="26px" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>
 <img align="left" width="26px" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
 <img align="left" width="26px" alt="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" width="26px" alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" style="padding-right:10px;"/>
+</div>
 <br>   
 
 </br>
