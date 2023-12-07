@@ -37,7 +37,7 @@
 </div>
 <br>
 
-<div style="display: inline">
+<div>
 <h6>Database: </h6>
 <img align="left" width="26px" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" width="26px" alt="microsoftsqlserver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:10px;"/>     
