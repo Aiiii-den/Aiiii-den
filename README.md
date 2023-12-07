@@ -86,11 +86,13 @@
 <br>   
 
 </br>
-<h3><em>S T A T S</em></em></h3>
-
-<em>Public repos only:</em>
+<h2 align="left">Stats</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiiii-den&layout=compact)
+
+<em> ↑ public repos only ↓ </em>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiiii-den&show_icons=true&theme=ambient_gradient)
 
 <h2 align="left">Work & Education</h2>
 <h4><em>Work Experience</em></h4>
