@@ -38,7 +38,7 @@
 <br>
 
 <div>
-<h6>Database: </h6>
+<h6 style="display: inline">Database: </h6>
 <img align="left" width="26px" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" width="26px" alt="microsoftsqlserver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:10px;"/>     
 <img align="left" alt="MongoDB" alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
