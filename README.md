@@ -113,8 +113,8 @@
 
 | Time                     | Title                   | Degree              |
 | ------------------------ | ----------------------- | ------------------- |
-| October '21 to Present   | Computer Science and Business Administration | Bachelor of Science |
-| October '18 to September '21 | Sports Management | Bachelor of Arts    |
+| 2021 - 2024 | Computer Science and Business Administration | Bachelor of Science |
+| 2018 - 2021 | Sports Management | Bachelor of Arts    |
 
 
 
