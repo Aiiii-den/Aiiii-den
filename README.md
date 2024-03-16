@@ -94,11 +94,9 @@
 </br>
 <h2 align="left">Stats</h2>
 
+<em> ↓ public repos only ↓ </em>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiiii-den&layout=compact)
-
-<em> ↑ public repos only ↓ </em>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiiii-den&show_icons=true&theme=ambient_gradient)
 
 <h2 align="left">Work & Education</h2>
 <h4><em>Work Experience</em></h4>
@@ -108,30 +106,3 @@
 | November '23 to Present: | Fullstack Dev (student worker) | Java (Spring Boot), Maven, Vue.js, Go |
 | April '23 to November '23: | Backend Dev (student worker) | Java (Spring Boot), Maven, GraphQL |
 | February '22 to October '22: | Product Manager (student worker) | SAP, Excel, Qlik |
-
-<h4><em>Education</em></h4>
-
-| Time                     | Title                   | Degree              |
-| ------------------------ | ----------------------- | ------------------- |
-| 2021 - 2024 | Computer Science and Business Administration | Bachelor of Science |
-| 2018 - 2021 | Sports Management | Bachelor of Arts    |
-
-
-
-<!--
-</br>
-<h2>Stats (public projects only)</h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiiii-den&show_icons=true&theme=ambient_gradient)
-
-- November '23 to Present:    Fullstack Dev - Java, Vue.js (student worker) </br>
-- April '23 to November '23:  Backend Dev - Java (student worker)  </br>
-- February '22 to October '22: Product Manager (student worker) </br>
-<h4><em>Education</em></h4>
-- October '21 to Present: CompSc & BuAdm | Bachelor of Science  </br>
-- October '18 to September '21: Sports Management | Bachelor of Arts  </br>
--->
-
-<!---
-Aiiii-den/Aiiii-den is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
