@@ -35,7 +35,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 </div>
-<br>
+<br>  
 
 <div>
 <h6 style="display: inline">Database: </h6>
@@ -67,18 +67,6 @@
 </br>
 
 </br>
-<h3><em>F U T U R E</em></h3>
-<div style="display: inline">
-<h6>Machine Learning: </h6>
-<img align="left" width="26px" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" width="26px" alt="tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" width="26px" alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" width="26px" alt="pytorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" style="padding-right:10px;"/>
-</div>
-  <br>   
-</br>
-
-</br>
 <h3><em>F U N S I E S</em></h3>
 <div style="display: inline">
 <h6>Game Development: </h6>
@@ -97,12 +85,3 @@
 <em> ↓ public repos only ↓ </em>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiiii-den&layout=compact)
-
-<h2 align="left">Work & Education</h2>
-<h4><em>Work Experience</em></h4>
-
-| Time | Title | Technologies |
-| ---------| ---------| ---------|
-| November '23 to Present: | Fullstack Dev (student worker) | Java (Spring Boot), Maven, Vue.js, Go |
-| April '23 to November '23: | Backend Dev (student worker) | Java (Spring Boot), Maven, GraphQL |
-| February '22 to October '22: | Product Manager (student worker) | SAP, Excel, Qlik |
