@@ -7,7 +7,7 @@
 - 📫 How to reach me: pls don't ^^ <br>
 </br>
 
-<h3 align="left">Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 <!--<h3><em>P R O F E S S I O N A L</em></h3>-->
 <div style="display: inline">
 <h5>Backend: </h5>
